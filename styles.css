@@ -1,6 +1,7 @@
 .holder{
 	display:flex;
-	justify-content:center
+	justify-content:center;
+	flex-wrap:wrap;
 }
 #item3{
 	order:-1
